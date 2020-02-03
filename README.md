@@ -2,7 +2,7 @@
 Controls a robot via bluetooth
 
 <p align="center">
-<video type="video/mp4" src="screenshots/demo1.mp4" alt="Video Demo" width="550" controls />
+<img src="screenshots/demo1.gif" alt="Video Demo" width="550" />
 </p>
 
 ## Features 
@@ -15,8 +15,8 @@ Controls a robot via bluetooth
  ## Screenshots
 
  <p align="center">
-<img src="screenshots/image1.jpg" alt="Bluetooth Controller" width="320" height="800"/>
+<img src="screenshots/image1.jpg" alt="Bluetooth Controller" width="330" height="800"/>
 </p>
  <p align="center">
-<img src="screenshots/image2.jpg" alt="Bluetooth Controller" width="320" height="800"/>
+<img src="screenshots/image2.jpg" alt="Bluetooth Controller" width="330" height="800"/>
 </p>
