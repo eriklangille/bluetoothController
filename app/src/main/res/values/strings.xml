@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluetooth Controller</string>
+    <string name="disc">disconnected</string>
+    <string name="conn">connected</string>
+    <string name="defSpeed">0</string>
+    <string name="speed">speed</string>
+    <string name="coins">coins</string>
+    <string name="mode0">auto</string>
+    <string name="mode1">RC</string>
+</resources>
